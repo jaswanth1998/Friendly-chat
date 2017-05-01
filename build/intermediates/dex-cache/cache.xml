@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/ed5c4acac1ae2ee600bdacefafaedbaad7cf0054/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07c72ada06ec2ded62374801d3409f3d4dcf76f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/63caf1a8ef1fed7e66929f1df719e005db164899/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_367e9c847ccc4f6edc315006489b60868d1402f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/50ad8259404d132f43ff138f51d664a8d0823167/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8c7b96fa2e348f6cac736e7096328286fd8a800/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_59d060e440232eaae8d228e9a3cc84bb27125a7d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_5bb5cecbf5c9eb6cab26c203df32a5a749dc2fe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/4855b9e211afe4910d5b9298ce86a68dac2533d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c20799a12e552f91abf208b677758cacb8c3802/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/fb6c97f9d743f6b642e315694088be300d3b2f79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08814cda20e443a06e50ae9b462121aac6391ecb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/0b3e6a12a891b05e35cacaaa04209ebfae850ff3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fbf72329d7e0956c0494ec60df2286ed70348f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/d3957ddb7a9d6b8f917194c6eb4184b06413c462/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab43ed991769d60d0a42692012eb1085ddde99e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_da39cb31186775a10d6014ce2a72d6ae191f2407.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/twitter-text-1.13.0_b1980f7bfbdbf196be940a3d7fbae7399829c164/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/4b4dd466a3bb7a48fc48127ce1eb40cbc60c83ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f563086edb1a035b276a13437377d950ea4c1431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/6b9ed4d9439620380c12150e8cd57a0ae6c7cced/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54ac2cffca7cb3fcb7692faf7cb153148a2b174e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/ca5f9a0d2053cde6f86f34c94090e006d73e3a0d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa063d0af929dc555bbc1b7fa81716e61781cbb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/61006348936b49e9ef3f0b1424e461f8ca5bb8c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e18e2c5422c819daf83c851d5226ab3a9a173f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/64e8d2425f480b67b5f6da5c8cfbbb21221ce1fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee4c4bb2a572c5f1f98bf39b2218cebb4df445b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/195441c6cdb2a8ee65f46c84f848270b5ed6fce7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5bcd9cbfeedc58f493339841a7c5d0347a39f0b">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_254d1de29fc90207666e169364acaa212129e451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/3abc80db01f2d30ad70c9aa52dfb8aa7c6d145b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c360cc52ec6af877e7a63a279d3cc0476f4c923/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d4cb146b39f2da25377a924c2c641348b6c8b805.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_0cd4829505bb0ebf09f6dce49a40fc3252215e9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/dd033621b707f6d473db5a34fee19888dda1efb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7308fa2037dac339ea04b90cdd17e87f835ea294">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35aca436c085bc6160fb9368b2dda1d953be3d07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_60e07f81c413e2f31207e94efbf19c65f2fc4efb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/5bec3da7b24a5bb583048acd8b809187ec5fe850/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1f6133ab371a202b8d4a6b6b73ba8fb1126ea1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_31f64da61625609c276e8387641d02f10eaf4845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_6e14ce2beff43d27311f65239fe41b0dcd2ca3ce.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/42431443ada13f1807e75e186b8fe3e172b7304a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b8483965c436933841d75ee61fec68c6940409e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_8b9570474fab0955caad3c4ab329186be6557db0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/84f04d5e0d37df8c767235d54fda672cf97fe549/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3367b8d8dec86b4bdfa181810285393fd999971d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_b631a1fe53c92e97a109832dfcbcf8119467282f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_ee51300a3114d861e1d33abcdcb7c75a5eca2159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_7ff04141a288b99b5c3b9ac2ce2cfe07324dd985.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/0cbd258a52a74a849a4c24aafdeaf4f8e28af4ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1395232a7eddc612029353b3c953cb0fced71076">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fd5fc4ad0220ccec4655f0cefbf0dbc3dd068f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2e7c8a584159273c58a3d64559f6018639f3097">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35aaec2ff5b5784a962e1b2fd3e09397e3e69cbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/b2db25d7d1ddfa434de312987028f51687dbdc29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf8c0b6ec17f059cf61ecd101296e16c38562196">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a71a13521c623413a5641d3c78f7e600c8ebe284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/82f7e79db5d1267b5b95c379253e06ea1343d945/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="895c63ba9782b04f0c5da69205216f6ec87119eb">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f353249d8860f9472fb9b6b8faf4121dc49c2d0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/62e6c4058dc40067e7a07236330a428a60353a6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcd013253b618552734d05f47f87e3f5c8de3aa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_f00344fa931cc2850000ac30ac7c96951b1448e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_10d01cd35237210e000958540844a240704fee82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_3e09e897d3a82bb65380fc98275517c74488914b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_03a5f047c3a8d21564c820b9b10c450a7fced58d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_d84e88270c64abc0d5ec64835c767f5332620493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/aac3f7fca9a2bf9267b0945717b749c80e7484cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a10ed1f1cff990ef081263ad33f13dc6c207eb4e">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf91a508325690ba3f6326b266e771c2559b17d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_6dee80f09ef7b481adffa95e461adf05f2ee639a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_06d0b4164e40a106670add8804b2fa83638eda8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/a39b5c73810ab604679c936d0b40d50414f65de5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be1cfcd22a92e617758278d33b2d1faf13b4e271/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e7554d6bce1b56320b3cbf81bf6853f5fffc843d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_4868338416ab8faa5c075e0449ee5cd193eb63fb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_5462b9fb8b814a9325c26597e32c6053fe086e9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/c2a07fbb73e42635e7e36a89de5426ae4190c0c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16d2179874040205cf3500ffcc3e229f09174be2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/86f5bfb24c72c903d18987812b7efd8a0dc1fad2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5beb1bc88c85ba282992777956e9ce76143055a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b52d64dc526cffef39adda9d1b1d3f3832abd046/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_f6d411fa85161d9955f44af05e20d1f6f19fd744.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/3139d101dc96bcdb9633047b56387da58781584b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f546927e5adcbf94a782c2095cd92c38d06d9fa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/75313c5907dc2569146501038572628809cf414d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a14dee4e383b6f06fd7ba01448234cee21218bc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_43b33695a2cc3455650f25ffbaa4796677273c47.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/9d42c76c6fc541ca29c912f72dab5efed0025b0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0558e5b6c171bd6719581340f9ac6be4af5ae265">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32a15dfb0456115332a2152e4edee75086314bf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/28d2482467f3136dc2d317e739ffc61ead4d938d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc1467b29dafc9b0ed7154bee7392e51639b2e52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/98e892ff24dfd39473b991ca529108cfb7818529/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c9a11c5356d6e3b3e7eb1c8007406e899187b06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/02261a2d6a8ef449ad6c3b71d7241a903f5ecfe2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d6f973ef1791e23789eee3e3c37373bb3d3283d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/305b7b2dc946ab152a5f91b39acdd531bea68f60/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6381aaf8f8ecfdb9289fbe24cf83bbdc6d912bb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/1eea2a36feb292e44b3400530426efebe63020c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c17ca0b29bb4d53f1f3f87bc40bdb88e7b13aaf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/9ee450bb3b69fcc8ac90e9ef0b11aa6c52a25755/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="343ad59d9fb3bbf6ab99baafad859eb4b0fecc02">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_332591e70ab4df5590eb10df96bc018cb5fd74f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/90d23b69c7eba750554f1988e5d2b9a6b291a1a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1c1d5954eb5c49b350ac4d832f55eb3c03b5867/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/glide-3.6.1_ee142c5bfa40b883222f7fe847f8065e3298cbca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_84472809b9a59e7bf78aab720bc85bcabe3f44e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_0cdbffa4a681728e1f7510654a1979bf41cc4e84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/618dafe6a2c44402972cfc0037ae296006ad4e44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56a40f03632aec9a989b636f15dddac53680dd45/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_578ccd6e059a877daed4a6c1b99ec04dd8695273.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaswanth/.android/build-cache/09f98badb0c8dff2a03394454fde33074d4ceb68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98ac18f891a8279ae57c4771cbf4a2a65f95b04c">
+        <dex dex="/Users/jaswanth/Desktop/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_723940e265eae322a83f49ddaf404c5093884291/classes.dex" />
+    </item>
+
+</items>
